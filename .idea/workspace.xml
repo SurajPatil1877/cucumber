@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88927290-be5a-47c6-9290-fa4e1751c269" name="Changes" comment="Cucumber Dependencies Added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNgRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinations/MainSteps.java" afterDir="false" />
+    <list default="true" id="88927290-be5a-47c6-9290-fa4e1751c269" name="Changes" comment="First Cucumber Program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNgRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNgRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinations/MainSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinations/MainSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.TestNgRunner.executor": "Run",
-    "git-widget-placeholder": "lenovo",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.TestNgRunner.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lenovo&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.TestNgRunner">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learning.Test" />
@@ -112,12 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1743743575448</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Cucumber Program">
+      <option name="closed" value="true" />
+      <created>1743989123420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743989123420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Cucumber Dependencies Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cucumber Dependencies Added" />
+    <MESSAGE value="First Cucumber Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Cucumber Program" />
   </component>
 </project>
