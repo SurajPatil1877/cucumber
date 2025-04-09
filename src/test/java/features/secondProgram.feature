@@ -16,7 +16,7 @@ Feature: Application Login
     @Regression
     @Mortgage
   Scenario Outline: Mortgage User Default Login
-    Given User is on Netbanking landing page
+    Given User is on NetBanking landing page
     When User login into application with "<Username>" and password "<Password>"
     Then Home Page is displayed
     And Cards are displayed
