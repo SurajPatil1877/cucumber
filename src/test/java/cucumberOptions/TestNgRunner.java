@@ -7,6 +7,11 @@ import io.cucumber.testng.CucumberOptions;
 //public class TestNgRunner extends AbstractTestNGCucumberTests {
 //}
 
-@CucumberOptions(features = "src/test/java/features", glue = "stepDefinations", monochrome = true, tags = "@Regression and @SmokeTest")
+//@CucumberOptions(features = "src/test/java/features", glue = "stepDefinations", monochrome = true, tags = "@Regression and @SmokeTest")
+//public class TestNgRunner extends AbstractTestNGCucumberTests {
+//}
+
+
+@CucumberOptions(features = "src/test/java/features", glue = "stepDefinations", monochrome = true, tags = "@Regression or @SmokeTest")
 public class TestNgRunner extends AbstractTestNGCucumberTests {
 }

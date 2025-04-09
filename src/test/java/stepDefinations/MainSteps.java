@@ -46,4 +46,17 @@ public class MainSteps {
         System.out.println("Number: " + data.getLast());
     }
 
+    @Given("setup the entries in database")
+    public void setup_the_entries_in_database() {
+        System.out.println("Setting up the db");
+    }
+    @When("launch the browser from config variables")
+    public void launch_the_browser_from_config_variables() {
+        System.out.println("Launching browser");
+    }
+    @When("hit the home page url of banking site")
+    public void hit_the_home_page_url_of_banking_site() {
+        System.out.println("Hitting the home page url");
+    }
+
 }
