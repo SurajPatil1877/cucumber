@@ -8,7 +8,7 @@ Feature: Application Login
 
   @Regression
   Scenario: Admin Page Default Login
-    Given User is on Netbanking landing page
+    Given User is on NetBanking landing page
     When User login into application with "admin" and password "1234"
     Then Home Page is displayed
     And Cards are displayed
@@ -23,7 +23,7 @@ Feature: Application Login
   @SmokeTest
     @Regression
   Scenario Outline: User Page Default Login
-    Given User is on Netbanking landing page
+    Given User is on NetBanking landing page
     When User login into application with "<Username>" and password "<Password>"
     Then Home Page is displayed
     And Cards are displayed
