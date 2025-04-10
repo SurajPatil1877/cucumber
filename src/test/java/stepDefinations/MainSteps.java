@@ -7,7 +7,7 @@ import io.cucumber.java.en.When;
 import java.util.List;
 
 public class MainSteps {
-    @Given("User is on Netbanking landing page")
+    @Given("User is on NetBanking landing page")
     public void user_is_on_netbanking_landing_page() {
         System.out.println("User is on netbanking landing page");
     }

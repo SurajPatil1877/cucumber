@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88927290-be5a-47c6-9290-fa4e1751c269" name="Changes" comment="tags in cucumber" />
+    <list default="true" id="88927290-be5a-47c6-9290-fa4e1751c269" name="Changes" comment="cucumber tags">
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/secondProgram.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/secondProgram.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,17 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.TestNgRunner.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;lenovo&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "asus",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/surajProjects/cucumber/src/test/java/features",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.TestNgRunner">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\surajProjects\cucumber\src\test\java\features" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learning.Test" />
       <module name="cucumberLearning" />
@@ -58,26 +67,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNgRunner" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="cucumberLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumberOptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cucumberOptions" />
-      <option name="MAIN_CLASS_NAME" value="cucumberOptions.TestNgRunner" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNgRunner" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -99,39 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743742228964</updated>
     </task>
-    <task id="LOCAL-00002" summary="Cucumber Dependencies Added">
+    <task id="LOCAL-00002" summary="gitIgnore updated">
       <option name="closed" value="true" />
-      <created>1743743575448</created>
+      <created>1744205899905</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1743743575448</updated>
+      <updated>1744205899905</updated>
     </task>
-    <task id="LOCAL-00003" summary="First Cucumber Program">
+    <task id="LOCAL-00003" summary="cucumber tags">
       <option name="closed" value="true" />
-      <created>1743989123420</created>
+      <created>1744210948976</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1743989123420</updated>
+      <updated>1744210948976</updated>
     </task>
-    <task id="LOCAL-00004" summary="tags in cucumber">
-      <option name="closed" value="true" />
-      <created>1744192396225</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1744192396225</updated>
-    </task>
-    <task id="LOCAL-00005" summary="tags in cucumber">
-      <option name="closed" value="true" />
-      <created>1744205105542</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1744205105542</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,9 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <MESSAGE value="Cucumber Dependencies Added" />
-    <MESSAGE value="First Cucumber Program" />
-    <MESSAGE value="tags in cucumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="tags in cucumber" />
+    <MESSAGE value="gitIgnore updated" />
+    <MESSAGE value="cucumber tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="cucumber tags" />
   </component>
 </project>
